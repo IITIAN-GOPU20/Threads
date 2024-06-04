@@ -1,6 +1,9 @@
-ThreadsClone
+## <a name="introduction">🤖 Introduction</a>
 
-Feature List:
+ThreadClone is a project inspired by the concept of replicating conversation threads seamlessly. With this platform, users can effortlessly create, share, and explore threads, fostering engaging discussions across various topics. Whether you're a developer looking to contribute or a user eager to dive into vibrant conversations, ThreadClone provides the perfect environment for collaboration and interaction.
+
+
+## <a name="tech-stack">⚙️ Tech Stack And Features</a>
 
 -   🌟 Tech stack: MERN + Socket.io + Chakra UI
 -   🎃 Authentication & Authorization with JWT
